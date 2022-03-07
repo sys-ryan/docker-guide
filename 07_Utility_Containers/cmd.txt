@@ -1,0 +1,3 @@
+### `npm init` - utility container 
+docker run -it -v $(pwd):/app node-util npm init
+
